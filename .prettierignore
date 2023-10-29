@@ -1,0 +1,9 @@
+next
+node_modules
+package.json
+package-lock.json
+public
+.gitignore
+build
+next.config.js
+tailwind.config.ts
